@@ -1,5 +1,5 @@
 # Python-Machine-Learning-Deep-Learning-YT-Tutorials
-# Learn with Dr. Jyoti — Python, Machine Learning & Deep Learning
+# Learn with Dr. Jyoti: Python, Machine Learning & Deep Learning
 
 Welcome to the official GitHub repository for **Learn with Dr. Jyoti**!
 
