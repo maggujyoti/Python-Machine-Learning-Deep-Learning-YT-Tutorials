@@ -70,9 +70,9 @@ Explore practical techniques to improve CNN performance, train better models, an
 
 1. Browse the topic you want to learn.
 2. Open the corresponding `.ipynb` notebook.
-3. Click the **Open in Colab** badge if provided, or use the notebook's GitHub URL with Google Colab.
-4. In Google Colab, select **File → Save a copy in Drive**.
-5. Run the code cells one by one and experiment with the examples.
+3. Upload it to your Google Colab account.
+4. Run the code cells one by one and experiment with the examples.
+5. You can follow YouTube tutorials for each of them for easy understanding.
 
 ## YouTube Channel
 
